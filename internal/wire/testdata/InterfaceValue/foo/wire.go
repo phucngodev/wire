@@ -20,7 +20,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/google/wire"
+	"github.com/phucngodev/wire"
 )
 
 func injectedReader() io.Reader {

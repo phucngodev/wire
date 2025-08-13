@@ -19,7 +19,7 @@ package main
 import (
 	"strings"
 
-	"github.com/google/wire"
+	"github.com/phucngodev/wire"
 )
 
 func inject() Foo {

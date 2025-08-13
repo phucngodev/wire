@@ -22,7 +22,7 @@ import (
 	"example.com/bar"
 	"example.com/baz"
 	"example.com/foo"
-	"github.com/google/wire"
+	"github.com/phucngodev/wire"
 )
 
 type MainConfig struct {
